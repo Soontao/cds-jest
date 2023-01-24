@@ -28,7 +28,7 @@ describe('serve Test Suite', () => {
     // expect
     expect(run.mock.lastCall).toMatchInlineSnapshot(`
 [
-  INSERT {
+  Query {
     "INSERT": {
       "entries": [
         {

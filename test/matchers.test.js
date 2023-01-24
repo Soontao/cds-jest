@@ -1,8 +1,8 @@
 
 
-describe('Machers Test Suite', () => {
+describe('Matchers Test Suite', () => {
 
-  require("../src") // register machers
+  require("../src") // register matchers
   require("@sap/cds")
 
   it('should support basic match CQN table', () => {
