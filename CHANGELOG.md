@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.0.2](https://github.com/Soontao/cds-jest/compare/v6.0.1...v6.0.2) (2023-01-24)
+
+
+### Bug Fixes
+
+* dep ([0c07135](https://github.com/Soontao/cds-jest/commit/0c07135d3f9eea6eaad6cd5b4c692c5865727f41))
+
 ### [6.0.1](https://github.com/Soontao/cds-jest/compare/v6.0.0...v6.0.1) (2022-08-27)
 
 
