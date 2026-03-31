@@ -29,7 +29,7 @@
     "@types/sqlite3": "5.1.0",
     "@typescript-eslint/eslint-plugin": "8.57.2",
     "@typescript-eslint/parser": "8.57.2",
-    "axios": "1.13.6",
+    "axios": "1.14.0",
     "eslint": "10.1.0",
     "jest": "30.3.0",
     "ts-jest": "29.4.6",
